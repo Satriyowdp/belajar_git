@@ -4,5 +4,5 @@ def add():
 def substract():
     print(2 + 2)
 
-def substract2(x):
-    print(1 - x)
+def substract2(x, z, v, b):
+    print(z - x - v- b)
